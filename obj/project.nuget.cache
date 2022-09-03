@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vQtMlxndL4yG0tnE9LC0jX5R5eVG1WRnL9TkOz0zJ7eP4eOOYf0DNcnoufGc2m5XgH2DneBTXtLQqT+txZtng==",
+  "success": true,
+  "projectFilePath": "D:\\InstBlend\\InstBlend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FrantsevVI\\.nuget\\packages\\materialskin2dotnet\\1.1.2\\materialskin2dotnet.1.1.2.nupkg.sha512",
+    "C:\\Users\\FrantsevVI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

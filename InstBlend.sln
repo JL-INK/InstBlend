@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstBlend", "InstBlend.csproj", "{ADF31289-3A78-4F9A-BEAD-BF374F3BB77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF31289-3A78-4F9A-BEAD-BF374F3BB77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF31289-3A78-4F9A-BEAD-BF374F3BB77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF31289-3A78-4F9A-BEAD-BF374F3BB77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF31289-3A78-4F9A-BEAD-BF374F3BB77C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E2D9446-EE63-4E39-BC5B-95420266BB9C}
+	EndGlobalSection
+EndGlobal
